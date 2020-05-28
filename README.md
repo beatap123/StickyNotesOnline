@@ -6,8 +6,7 @@ PHP application to create popular Sticky Notes and save it in the database.
 * [Installation](#installation)
 
 ## General info
-This project is simple application to create and save your own notes on your account. Note "lives" only 24 hours, then is removed
-from your wall. If you want keep your note longer you can send it on your email address.
+This project is simple application to create and save your own notes on your account. Notes "are living" only 24 hours, then is removed from your wall. If you want keep your note longer you can send it on your email address.
 	
 ## Technologies
 Project is created with:
