@@ -17,7 +17,7 @@ Project is created with:
 
 ## Installation
 If you use local web server (e.g. XAMPP):
-* create the new folder in "htdoc" on your local server
-* clone this repository and put it on your folder
+* create the new folder in your "htdoc" folder 
+* clone this repository and put it on your new folder
 * you need create and add your own database and change info in "connect.php" file
 * you need create your own reCAPTCHA and change info in "rejestracja.php" file (57,194)
